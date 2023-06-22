@@ -1,0 +1,16 @@
+{
+  "name": "pteroterm",
+  "version": "1.0.0",
+  "description": "A Terminal to interact with Pterodactyl Servers' Consoles",
+  "main": "server_chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fisher",
+  "license": "WTFPL",
+  "dependencies": {
+    "nodeactyl": "^3.3.0",
+    "serverline": "^1.6.0",
+    "ws": "^8.13.0"
+  }
+}
